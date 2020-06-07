@@ -1,4 +1,4 @@
-Example using shared memory for building applications with Darknet object detection running in the background.
+Example using shared memory for building applications with Darknet object detection running in the background. Made for windows.
 
 Compile darknet (https://github.com/AlexeyAB/darknet) after replacing the files in Darknet_src.
 
